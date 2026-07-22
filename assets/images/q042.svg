@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f6f7f8"/>
+<rect width="900" height="58" fill="#20242a"/>
+<text x="28" y="37" text-anchor="start" font-family="Arial" font-size="22" font-weight="900" fill="#fff">QUESTION 042 · STAIRS, RAMPS AND RAILINGS</text>
+<line x1="120" y1="390" x2="780" y2="390" stroke="#20242a" stroke-width="4"/><line x1="165" y1="360" x2="720" y2="145" stroke="#ff8614" stroke-width="13"/><text x="450" y="245" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#20242a">600 mm RISE</text><text x="450" y="300" text-anchor="middle" font-family="Arial" font-size="30" font-weight="800" fill="#20242a">1 : 12</text><rect x="1" y="410" width="898" height="48" fill="#ffffff"/><text x="450" y="441" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">STAIR · MAXIMUM · RISER</text>
+<rect x="0" y="458" width="900" height="62" fill="#fff"/>
+<text x="450" y="485" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">Which stair property controls the maximum riser height?</text>
+</svg>

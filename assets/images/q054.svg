@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f6f7f8"/>
+<rect width="900" height="58" fill="#20242a"/>
+<text x="28" y="37" text-anchor="start" font-family="Arial" font-size="22" font-weight="900" fill="#fff">QUESTION 054 · SITE AND MASSING</text>
+<path d="M60 145 C210 115, 325 175, 470 140 S715 180, 840 145" fill="none" stroke="#6f7b68" stroke-width="3"/><path d="M60 195 C210 165, 325 225, 470 190 S715 230, 840 195" fill="none" stroke="#6f7b68" stroke-width="3"/><path d="M60 245 C210 215, 325 275, 470 240 S715 280, 840 245" fill="none" stroke="#6f7b68" stroke-width="3"/><path d="M60 295 C210 265, 325 325, 470 290 S715 330, 840 295" fill="none" stroke="#6f7b68" stroke-width="3"/><path d="M60 345 C210 315, 325 375, 470 340 S715 380, 840 345" fill="none" stroke="#6f7b68" stroke-width="3"/><path d="M220 350Q450 70 680 350" fill="#d9eef7" stroke="#20242a" stroke-width="5"/><line x1="450" y1="210" x2="450" y2="365" stroke="#ff8614" stroke-width="7"/><polygon points="450,365 439.4,349.2 460.6,349.2" fill="#ff8614"/><rect x="1" y="410" width="898" height="48" fill="#ffffff"/><text x="450" y="441" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">MASSING · CONVERTS · MASS</text>
+<rect x="0" y="458" width="900" height="62" fill="#fff"/>
+<text x="450" y="485" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">Which massing tool converts mass faces into building elements?</text>
+</svg>

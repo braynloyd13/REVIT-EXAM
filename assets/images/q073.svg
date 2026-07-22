@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f6f7f8"/>
+<rect width="900" height="58" fill="#20242a"/>
+<text x="28" y="37" text-anchor="start" font-family="Arial" font-size="22" font-weight="900" fill="#fff">QUESTION 073 · SCHEDULES, SHEETS AND QC</text>
+<rect x="80" y="95" width="740" height="320" rx="0" fill="#fff" stroke="#20242a" stroke-width="3"/><rect x="84" y="99" width="732" height="45" rx="0" fill="#ff8614" stroke="#ff8614" stroke-width="0"/><line x1="228" y1="95" x2="228" y2="415" stroke="#20242a" stroke-width="2"/><line x1="376" y1="95" x2="376" y2="415" stroke="#20242a" stroke-width="2"/><line x1="524" y1="95" x2="524" y2="415" stroke="#20242a" stroke-width="2"/><line x1="672" y1="95" x2="672" y2="415" stroke="#20242a" stroke-width="2"/><line x1="80" y1="159" x2="820" y2="159" stroke="#20242a" stroke-width="2"/><line x1="80" y1="223" x2="820" y2="223" stroke="#20242a" stroke-width="2"/><line x1="80" y1="287" x2="820" y2="287" stroke="#20242a" stroke-width="2"/><line x1="80" y1="351" x2="820" y2="351" stroke="#20242a" stroke-width="2"/><line x1="80" y1="415" x2="820" y2="415" stroke="#20242a" stroke-width="2"/><rect x="1" y="410" width="898" height="48" fill="#ffffff"/><text x="450" y="441" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">SCHEDULE · LISTS · MATERIAL</text>
+<rect x="0" y="458" width="900" height="62" fill="#fff"/>
+<text x="450" y="485" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">Which schedule lists material quantities by layer or element material?</text>
+</svg>

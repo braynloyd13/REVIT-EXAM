@@ -1,0 +1,1482 @@
+[
+  {
+    "category": "Conceptual Massing",
+    "q": "Which Revit environment is intended for creating reusable freeform conceptual mass families?",
+    "choices": [
+      "Conceptual Mass Family Editor",
+      "Generic Model Family Editor",
+      "Project Browser",
+      "Drafting View",
+      "System Family Editor",
+      "Material Browser",
+      "Sheet Editor",
+      "Schedule Properties",
+      "Profile Editor",
+      "Project Standards"
+    ],
+    "a": 0,
+    "image": "assets/images/q001.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "What is the main advantage of a conceptual mass family over an in-place mass?",
+    "choices": [
+      "It can be reused and loaded into multiple projects",
+      "It automatically creates construction documents",
+      "It cannot contain parameters",
+      "It removes the need for levels",
+      "It always has a smaller file size",
+      "It cannot use reference lines",
+      "It prevents form editing",
+      "It creates only 2D geometry",
+      "It cannot be scheduled",
+      "It automatically becomes a curtain wall"
+    ],
+    "a": 0,
+    "image": "assets/images/q002.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "Which command creates a solid or surface from selected curves, profiles, or points?",
+    "choices": [
+      "Create Form",
+      "Join Geometry",
+      "Paint",
+      "Split Element",
+      "Array",
+      "Offset",
+      "Mirror",
+      "Attach Top/Base",
+      "Edit Profile",
+      "Create Parts"
+    ],
+    "a": 0,
+    "image": "assets/images/q003.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "What is normally created when one closed profile is selected before Create Form?",
+    "choices": [
+      "An extrusion-like solid form",
+      "A schedule",
+      "A room",
+      "A curtain grid",
+      "A workset",
+      "A model group",
+      "A callout",
+      "A view template",
+      "A design option",
+      "A scope box"
+    ],
+    "a": 0,
+    "image": "assets/images/q004.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "What is normally created when several closed profiles on different planes are selected before Create Form?",
+    "choices": [
+      "A lofted form",
+      "A wall sweep",
+      "A model line",
+      "A shaft opening",
+      "A room separation",
+      "A stacked wall",
+      "A railing",
+      "A filled region",
+      "A drafting symbol",
+      "A keynote"
+    ],
+    "a": 0,
+    "image": "assets/images/q005.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "Which element is preferred for defining a parametric path in a mass family?",
+    "choices": [
+      "Reference Line",
+      "Detail Line",
+      "Symbolic Line",
+      "Room Separation Line",
+      "Insulation Line",
+      "Area Boundary",
+      "Revision Cloud",
+      "Property Line",
+      "Grid Bubble",
+      "Masking Region"
+    ],
+    "a": 0,
+    "image": "assets/images/q006.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "Why are reference points important in advanced mass modeling?",
+    "choices": [
+      "They can host geometry and control adaptive form behavior",
+      "They create sheets automatically",
+      "They replace all parameters",
+      "They prevent constraints",
+      "They create only annotations",
+      "They are only for title blocks",
+      "They cannot move along curves",
+      "They cannot report coordinates",
+      "They delete hosted geometry",
+      "They are visible only in schedules"
+    ],
+    "a": 0,
+    "image": "assets/images/q007.svg"
+  },
+  {
+    "category": "Conceptual Massing",
+    "q": "Which method is best for creating a twisting tower mass?",
+    "choices": [
+      "Loft multiple rotated profiles placed at different levels",
+      "Use one wall extrusion",
+      "Use only Roof by Footprint",
+      "Create stacked walls",
+      "Use room separation lines",
+      "Create a schedule",
+      "Use a drafting view",
+      "Place a generic box",
+      "Create a ceiling grid",
+      "Use a filled region"
+    ],
+    "a": 0,
+    "image": "assets/images/q008.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "Which form is best for a transition between different profile shapes along a path?",
+    "choices": [
+      "Swept Blend",
+      "Simple Extrusion",
+      "Revolve",
+      "Roof by Footprint",
+      "Wall Sweep",
+      "Ceiling",
+      "Floor",
+      "Shaft Opening",
+      "Model Text",
+      "Filled Region"
+    ],
+    "a": 0,
+    "image": "assets/images/q009.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "Which method is appropriate for a dome created by rotating a profile around an axis?",
+    "choices": [
+      "Revolve",
+      "Sweep",
+      "Blend",
+      "Extrusion",
+      "Loft",
+      "Curtain System",
+      "Mass Floor",
+      "Wall by Face",
+      "Roof by Face",
+      "Divide Surface"
+    ],
+    "a": 0,
+    "image": "assets/images/q010.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "Which workflow is best for a complex canopy following a curved path with varying sections?",
+    "choices": [
+      "Swept Blend using a reference-line path and profiles",
+      "Simple wall extrusion",
+      "Stacked wall",
+      "Room separation",
+      "Single ceiling sketch",
+      "Drafting detail",
+      "Property line",
+      "Area plan",
+      "Revision cloud",
+      "Model group"
+    ],
+    "a": 0,
+    "image": "assets/images/q011.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "What can an open curve create when Create Form is used?",
+    "choices": [
+      "A surface form",
+      "A floor automatically",
+      "A room",
+      "A schedule",
+      "A title block",
+      "A deleted curve",
+      "A wall type",
+      "A closed solid regardless of profile",
+      "A workset",
+      "Nothing selectable"
+    ],
+    "a": 0,
+    "image": "assets/images/q012.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "Which operation removes material from an existing mass solid?",
+    "choices": [
+      "Create a Void Form and cut the solid",
+      "Paint the surface",
+      "Add a schedule filter",
+      "Create a room",
+      "Split the view",
+      "Create a sheet",
+      "Use a filled region",
+      "Change the phase",
+      "Create a wall sweep",
+      "Apply a keynote"
+    ],
+    "a": 0,
+    "image": "assets/images/q013.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "What must occur for a void form to affect a solid?",
+    "choices": [
+      "The void must intersect the solid and cut it",
+      "The void must remain outside",
+      "The void must be on a sheet",
+      "The void needs a room tag",
+      "The void must be in a drafting view",
+      "The solid only needs to be unpinned",
+      "The void must be a detail line",
+      "The solid must be a system family",
+      "The void must be scheduled",
+      "The void must use a title block"
+    ],
+    "a": 0,
+    "image": "assets/images/q014.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "Which controls directly manipulate a mass form’s faces, edges, and vertices?",
+    "choices": [
+      "Form controls and shape handles",
+      "Room tags",
+      "View templates",
+      "Schedule fields",
+      "Revision clouds",
+      "Workset dialogs",
+      "Title block labels",
+      "Grid bubbles",
+      "Sheet guides",
+      "Keynotes"
+    ],
+    "a": 0,
+    "image": "assets/images/q015.svg"
+  },
+  {
+    "category": "Advanced Forms",
+    "q": "What is the purpose of Add Edge on a mass form?",
+    "choices": [
+      "To introduce extra editable geometry and form control",
+      "To create a schedule row",
+      "To add a wall layer",
+      "To create a title block border",
+      "To create a room boundary",
+      "To add a revision",
+      "To set project units",
+      "To assign a keynote",
+      "To add a workset",
+      "To create a family type"
+    ],
+    "a": 0,
+    "image": "assets/images/q016.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "Which command creates floor plates at selected levels through a mass?",
+    "choices": [
+      "Mass Floors",
+      "Floor by Sketch",
+      "Create Parts",
+      "Split Face",
+      "Wall Sweep",
+      "Room Separation",
+      "Area Boundary",
+      "Join Geometry",
+      "Array",
+      "Create Similar"
+    ],
+    "a": 0,
+    "image": "assets/images/q017.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "Why are mass floors useful during schematic design?",
+    "choices": [
+      "They provide approximate floor areas, volumes, and level plates",
+      "They create final reinforcement",
+      "They replace construction details",
+      "They generate title blocks",
+      "They remove the need for levels",
+      "They create only 2D drawings",
+      "They cannot be scheduled",
+      "They create room tags automatically",
+      "They prevent design changes",
+      "They convert all geometry to walls"
+    ],
+    "a": 0,
+    "image": "assets/images/q018.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "Which tool converts a vertical mass face into a wall?",
+    "choices": [
+      "Wall by Face",
+      "Curtain Grid",
+      "Create Form",
+      "Wall Sweep",
+      "Attach Top/Base",
+      "Edit Profile",
+      "Paint",
+      "Join Geometry",
+      "Split Element",
+      "Create Parts"
+    ],
+    "a": 0,
+    "image": "assets/images/q019.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "Which tool converts a sloped or curved mass face into a roof?",
+    "choices": [
+      "Roof by Face",
+      "Roof by Footprint",
+      "Ceiling by Face",
+      "Floor by Face",
+      "Create Parts",
+      "Edit Boundary",
+      "Join Geometry",
+      "Paint",
+      "Split Face",
+      "Create Similar"
+    ],
+    "a": 0,
+    "image": "assets/images/q020.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "Which tool places a curtain system directly on a mass face?",
+    "choices": [
+      "Curtain System by Face",
+      "Curtain Wall Type",
+      "Divide Surface only",
+      "Wall by Face",
+      "Roof by Face",
+      "Create Parts",
+      "Model Group",
+      "Room Separation",
+      "Area Boundary",
+      "Grid by Sketch"
+    ],
+    "a": 0,
+    "image": "assets/images/q021.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "What is the main advantage of by-face elements?",
+    "choices": [
+      "They can remain associated with and update from the source mass face",
+      "They are always independent",
+      "They cannot be edited",
+      "They create drafting geometry only",
+      "They are not visible in 3D",
+      "They cannot have materials",
+      "They never update",
+      "They cannot be scheduled",
+      "They replace the mass",
+      "They work only on flat faces"
+    ],
+    "a": 0,
+    "image": "assets/images/q022.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "What should be checked after changing a mass that hosts by-face elements?",
+    "choices": [
+      "Whether hosted elements need updating or face remapping",
+      "Only the sheet number",
+      "Only the title block",
+      "Only room names",
+      "Only project units",
+      "Only revision dates",
+      "Only the keynote file",
+      "Only print settings",
+      "Only line styles",
+      "Only browser organization"
+    ],
+    "a": 0,
+    "image": "assets/images/q023.svg"
+  },
+  {
+    "category": "Mass Floors & By-Face",
+    "q": "Which analysis is most directly supported by mass floors?",
+    "choices": [
+      "Gross floor area and conceptual building volume studies",
+      "Final reinforcement detailing",
+      "Door hardware schedules only",
+      "Lighting circuits",
+      "Pipe sizing",
+      "Revision numbering",
+      "Title block management",
+      "Worksharing ownership",
+      "Room finish keynotes",
+      "Sheet issue tracking"
+    ],
+    "a": 0,
+    "image": "assets/images/q024.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "Which command subdivides a mass face into a UV grid?",
+    "choices": [
+      "Divide Surface",
+      "Split Face",
+      "Create Parts",
+      "Curtain Grid",
+      "Array",
+      "Edit Profile",
+      "Wall by Face",
+      "Roof by Face",
+      "Paint",
+      "Join Geometry"
+    ],
+    "a": 0,
+    "image": "assets/images/q025.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "What do U and V grids represent on a divided surface?",
+    "choices": [
+      "The two parameter directions of the surface",
+      "Project north and true north",
+      "Room and area boundaries",
+      "Sheet coordinates",
+      "Level and grid categories",
+      "Material layers",
+      "Workset ownership",
+      "Phasing filters",
+      "Revision sequences",
+      "View scales"
+    ],
+    "a": 0,
+    "image": "assets/images/q026.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "Which template is used for a custom panel hosted on a divided surface?",
+    "choices": [
+      "Curtain Panel Pattern Based",
+      "Generic Model Wall Based",
+      "Door",
+      "Window",
+      "Title Block",
+      "Profile",
+      "Detail Item",
+      "Annotation Symbol",
+      "Furniture",
+      "Room Tag"
+    ],
+    "a": 0,
+    "image": "assets/images/q027.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "Which values control the number of divisions along a surface?",
+    "choices": [
+      "U and V grid layout values",
+      "View scale",
+      "Sheet size",
+      "Room calculation point",
+      "Phase filter",
+      "Workset name",
+      "Revision number",
+      "Project units",
+      "Line weight",
+      "Title block type"
+    ],
+    "a": 0,
+    "image": "assets/images/q028.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "What is the purpose of a pattern on a divided surface?",
+    "choices": [
+      "To define the cell topology for repeated panel placement",
+      "To create rooms",
+      "To create schedules",
+      "To control title blocks",
+      "To change project units",
+      "To assign worksets",
+      "To create levels",
+      "To create revision clouds",
+      "To place wall sweeps",
+      "To define print settings"
+    ],
+    "a": 0,
+    "image": "assets/images/q029.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "What must be done before placing a pattern-based panel family?",
+    "choices": [
+      "Apply a compatible surface pattern and load the panel family",
+      "Create a room schedule",
+      "Create a title block",
+      "Create a workset",
+      "Place a level",
+      "Add a revision",
+      "Change project units",
+      "Create a drafting view",
+      "Create a scope box",
+      "Attach a wall"
+    ],
+    "a": 0,
+    "image": "assets/images/q030.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "Why can panels distort on a double-curved surface?",
+    "choices": [
+      "UV cells vary in size and orientation across the surface",
+      "The project has too many sheets",
+      "Room names are missing",
+      "The title block is incorrect",
+      "The file uses worksets",
+      "Project north is rotated",
+      "The view scale is small",
+      "The schedule is filtered",
+      "The model has levels",
+      "The material has no texture"
+    ],
+    "a": 0,
+    "image": "assets/images/q031.svg"
+  },
+  {
+    "category": "Divide Surface",
+    "q": "Which strategy improves panel consistency on an irregular surface?",
+    "choices": [
+      "Adjust UV spacing, pattern type, and surface parameterization",
+      "Increase sheet size",
+      "Change the title block",
+      "Add room tags",
+      "Create more revisions",
+      "Delete levels",
+      "Turn off worksets",
+      "Use a drafting view",
+      "Change project units",
+      "Add keynotes"
+    ],
+    "a": 0,
+    "image": "assets/images/q032.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "What makes an adaptive component different from a conventional hosted family?",
+    "choices": [
+      "Its placement points adapt to selected geometry",
+      "It cannot contain parameters",
+      "It can only be placed on sheets",
+      "It is a system family",
+      "It cannot repeat",
+      "It cannot use reference lines",
+      "It cannot be scheduled",
+      "It creates only annotation",
+      "It cannot be nested",
+      "It cannot rotate"
+    ],
+    "a": 0,
+    "image": "assets/images/q033.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "Which command converts reference points into placement points?",
+    "choices": [
+      "Make Adaptive",
+      "Create Form",
+      "Divide Surface",
+      "Create Similar",
+      "Set Work Plane",
+      "Join Geometry",
+      "Paint",
+      "Create Parts",
+      "Attach Top/Base",
+      "Edit Profile"
+    ],
+    "a": 0,
+    "image": "assets/images/q034.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "What determines adaptive point placement order?",
+    "choices": [
+      "The numbered adaptive point sequence",
+      "The sheet number",
+      "The room number",
+      "The material name",
+      "The workset name",
+      "The revision number",
+      "The level name",
+      "The view scale",
+      "The title block",
+      "The family filename"
+    ],
+    "a": 0,
+    "image": "assets/images/q035.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "Which family suits a panel defined by four corner points?",
+    "choices": [
+      "A four-point adaptive component",
+      "A one-point detail item",
+      "A wall-based generic model",
+      "A title block",
+      "A room tag",
+      "A profile family",
+      "A drafting symbol",
+      "A level-based furniture family",
+      "A ceiling light family",
+      "A door family"
+    ],
+    "a": 0,
+    "image": "assets/images/q036.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "What is a reporting parameter?",
+    "choices": [
+      "A parameter that reads measured geometry and can drive related logic",
+      "A sheet-title parameter only",
+      "A parameter that cannot change",
+      "A material-only parameter",
+      "A revision parameter",
+      "A workset parameter",
+      "A browser parameter",
+      "A print parameter",
+      "A room-color parameter",
+      "A phase filter"
+    ],
+    "a": 0,
+    "image": "assets/images/q037.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "Which feature repeats an adaptive component along divided geometry?",
+    "choices": [
+      "Repeater",
+      "Drafting View Array",
+      "Wall Sweep",
+      "Create Parts",
+      "Design Option",
+      "Workset",
+      "Room Separation",
+      "Revision Cloud",
+      "Scope Box",
+      "Keynote"
+    ],
+    "a": 0,
+    "image": "assets/images/q038.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "Why are adaptive components effective for complex façades?",
+    "choices": [
+      "They respond to host geometry while maintaining parametric relationships",
+      "They cannot use geometry",
+      "They work only in 2D",
+      "They cannot repeat",
+      "They cannot host parameters",
+      "They create schedules only",
+      "They eliminate all file size",
+      "They replace mass floors",
+      "They cannot rotate",
+      "They must remain rectangular"
+    ],
+    "a": 0,
+    "image": "assets/images/q039.svg"
+  },
+  {
+    "category": "Adaptive Components",
+    "q": "How can louver depth respond to panel orientation?",
+    "choices": [
+      "Use reporting and formula-driven parameters tied to adaptive geometry",
+      "Use sheet parameters",
+      "Use room numbers",
+      "Use revision sequences",
+      "Use workset names",
+      "Use title block labels",
+      "Use project units only",
+      "Use browser organization",
+      "Use grid bubbles",
+      "Use line patterns"
+    ],
+    "a": 0,
+    "image": "assets/images/q040.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which stair component connects two stair runs automatically?",
+    "choices": [
+      "Landing",
+      "Stringer",
+      "Riser",
+      "Tread",
+      "Schedule Key",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "stair",
+    "image": "assets/images/q041.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which stair property controls the maximum riser height?",
+    "choices": [
+      "Calculation Rules",
+      "Run Width",
+      "Base Offset",
+      "Desired Number of Risers",
+      "Schedule Key",
+      "View Filter",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box"
+    ],
+    "a": 0,
+    "visual": "stair",
+    "image": "assets/images/q042.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which method creates stairs extending across multiple building levels?",
+    "choices": [
+      "Multistory Stair",
+      "Array Stair",
+      "Copy to Levels",
+      "Group Stair",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane"
+    ],
+    "a": 0,
+    "visual": "stair",
+    "image": "assets/images/q043.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "For a 1:12 ramp, what run is needed for a 600 mm rise?",
+    "choices": [
+      "7200 mm",
+      "6000 mm",
+      "4800 mm",
+      "12000 mm",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate"
+    ],
+    "a": 0,
+    "visual": "ramp",
+    "image": "assets/images/q044.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which railing component is mounted beside a stair for grasping?",
+    "choices": [
+      "Handrail",
+      "Top Rail",
+      "Baluster",
+      "Support",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Transfer Project Standards"
+    ],
+    "a": 0,
+    "visual": "railing",
+    "image": "assets/images/q045.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which railing setting controls repeated vertical members?",
+    "choices": [
+      "Baluster Placement",
+      "Rail Structure",
+      "Top Rail Type",
+      "Path Offset",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Detail Component"
+    ],
+    "a": 0,
+    "visual": "railing",
+    "image": "assets/images/q046.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which stair editing mode allows custom boundaries and riser lines?",
+    "choices": [
+      "Sketch Stair",
+      "Component Stair",
+      "Edit Profile",
+      "In-place Stair",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option",
+      "Workset"
+    ],
+    "a": 0,
+    "visual": "stair",
+    "image": "assets/images/q047.svg"
+  },
+  {
+    "category": "Stairs, Ramps and Railings",
+    "q": "Which railing command lets it follow a stair edge automatically?",
+    "choices": [
+      "Place on Host",
+      "Pick New Host",
+      "Edit Path",
+      "Set Work Plane",
+      "Schedule Key",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "railing",
+    "image": "assets/images/q048.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which Revit 2026 element represents terrain as a solid layered object?",
+    "choices": [
+      "Toposolid",
+      "Toposurface",
+      "Building Pad",
+      "Mass Floor",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate"
+    ],
+    "a": 0,
+    "visual": "site",
+    "image": "assets/images/q049.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which tool changes points to create a flat graded area on a toposolid?",
+    "choices": [
+      "Shape Editing / Set Elevation",
+      "Split Surface",
+      "Subregion only",
+      "Paint",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Transfer Project Standards"
+    ],
+    "a": 0,
+    "visual": "site",
+    "image": "assets/images/q050.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which element defines legal site boundaries and bearings?",
+    "choices": [
+      "Property Line",
+      "Scope Box",
+      "Reference Plane",
+      "Room Separation",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Detail Component"
+    ],
+    "a": 0,
+    "visual": "site",
+    "image": "assets/images/q051.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which command calculates cut and fill between site phases?",
+    "choices": [
+      "Graded Region / phase comparison",
+      "Split Surface",
+      "Building Pad",
+      "Material Takeoff only",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option",
+      "Workset"
+    ],
+    "a": 0,
+    "visual": "site",
+    "image": "assets/images/q052.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which site component follows terrain elevation automatically?",
+    "choices": [
+      "Hosted planting component",
+      "Level-based furniture",
+      "Detail component",
+      "Annotation symbol",
+      "Schedule Key",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "site",
+    "image": "assets/images/q053.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which massing tool converts mass faces into building elements?",
+    "choices": [
+      "Wall/Roof/Floor by Face",
+      "Create Form",
+      "Divide Surface",
+      "Show Mass",
+      "Schedule Key",
+      "View Filter",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box"
+    ],
+    "a": 0,
+    "visual": "mass",
+    "image": "assets/images/q054.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which tool creates repeated adaptive panels across a mass surface?",
+    "choices": [
+      "Divide Surface",
+      "Curtain Grid",
+      "Array",
+      "Split Face",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane"
+    ],
+    "a": 0,
+    "visual": "mass",
+    "image": "assets/images/q055.svg"
+  },
+  {
+    "category": "Site and Massing",
+    "q": "Which property creates floor plates at selected mass levels?",
+    "choices": [
+      "Mass Floors",
+      "Building Stories",
+      "Levels only",
+      "Floor by Face",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate"
+    ],
+    "a": 0,
+    "visual": "mass",
+    "image": "assets/images/q056.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which line type encloses rooms without creating physical walls?",
+    "choices": [
+      "Room Separation Line",
+      "Area Boundary Line",
+      "Detail Line",
+      "Property Line",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option",
+      "Workset"
+    ],
+    "a": 0,
+    "visual": "room",
+    "image": "assets/images/q057.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which element reports enclosed usable spaces in architectural plans?",
+    "choices": [
+      "Room",
+      "Area",
+      "Space",
+      "Zone",
+      "Schedule Key",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "room",
+    "image": "assets/images/q058.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which scheme is used for gross building and rentable calculations?",
+    "choices": [
+      "Area Plan and Area Scheme",
+      "Room Schedule",
+      "Mass Floor",
+      "Sheet List",
+      "Schedule Key",
+      "View Filter",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box"
+    ],
+    "a": 0,
+    "visual": "area",
+    "image": "assets/images/q059.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which parameter controls whether a linked model defines room boundaries?",
+    "choices": [
+      "Room Bounding",
+      "Underlay",
+      "Phase Filter",
+      "Discipline",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane"
+    ],
+    "a": 0,
+    "visual": "room",
+    "image": "assets/images/q060.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which tool applies colors based on room department or occupancy?",
+    "choices": [
+      "Color Scheme",
+      "View Filter only",
+      "Paint",
+      "Material Tag",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate"
+    ],
+    "a": 0,
+    "visual": "room",
+    "image": "assets/images/q061.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which setting determines whether demolished walls appear dashed or hidden?",
+    "choices": [
+      "Phase Filter",
+      "Design Option",
+      "Workset Visibility",
+      "View Range",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Transfer Project Standards"
+    ],
+    "a": 0,
+    "visual": "phase",
+    "image": "assets/images/q062.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which phases are needed for renovation documentation?",
+    "choices": [
+      "Existing and New Construction",
+      "Primary and Secondary",
+      "Option 1 and Option 2",
+      "LOD 300 and LOD 400",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Detail Component"
+    ],
+    "a": 0,
+    "visual": "phase",
+    "image": "assets/images/q063.svg"
+  },
+  {
+    "category": "Rooms, Areas and Phasing",
+    "q": "Which command removes a room definition but keeps it available for scheduling?",
+    "choices": [
+      "Delete room placement from plan",
+      "Unplace Room",
+      "Demolish Room",
+      "Hide Room",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option",
+      "Workset"
+    ],
+    "a": 1,
+    "visual": "room",
+    "image": "assets/images/q064.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which view should be used for a detailed wall-window junction at 1:10?",
+    "choices": [
+      "Callout Detail View",
+      "3D Perspective",
+      "Floor Plan",
+      "Legend",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane"
+    ],
+    "a": 0,
+    "visual": "section",
+    "image": "assets/images/q065.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which tool controls crop extents of several parallel plans and sections?",
+    "choices": [
+      "Scope Box",
+      "Section Box",
+      "View Template",
+      "Reference Plane",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate"
+    ],
+    "a": 0,
+    "visual": "view",
+    "image": "assets/images/q066.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which annotation remains the same printed size at different view scales?",
+    "choices": [
+      "Text Note",
+      "Model Text",
+      "Model Line",
+      "Wall Sweep",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Transfer Project Standards"
+    ],
+    "a": 0,
+    "visual": "annotation",
+    "image": "assets/images/q067.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which line style is visible only in the current view?",
+    "choices": [
+      "Detail Line",
+      "Model Line",
+      "Reference Line",
+      "Boundary Line",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Detail Component"
+    ],
+    "a": 0,
+    "visual": "annotation",
+    "image": "assets/images/q068.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which tool masks model geometry behind a detail?",
+    "choices": [
+      "Masking Region",
+      "Filled Region",
+      "Split Face",
+      "Paint",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option",
+      "Workset"
+    ],
+    "a": 0,
+    "visual": "detail",
+    "image": "assets/images/q069.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which view type can be reused on several sheets?",
+    "choices": [
+      "Legend",
+      "Floor Plan",
+      "Section",
+      "Schedule instance",
+      "Schedule Key",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "legend",
+    "image": "assets/images/q070.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which tool creates a non-model detail from imported or drafted geometry?",
+    "choices": [
+      "Drafting View",
+      "Callout View",
+      "Floor Plan",
+      "3D View",
+      "Schedule Key",
+      "View Filter",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box"
+    ],
+    "a": 0,
+    "visual": "view",
+    "image": "assets/images/q071.svg"
+  },
+  {
+    "category": "Documentation and Views",
+    "q": "Which option ensures dependent floor plans share annotations and crop relationships?",
+    "choices": [
+      "Duplicate as Dependent",
+      "Duplicate with Detailing",
+      "Duplicate",
+      "Create Template",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane"
+    ],
+    "a": 0,
+    "visual": "view",
+    "image": "assets/images/q072.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which schedule lists material quantities by layer or element material?",
+    "choices": [
+      "Material Takeoff",
+      "Room Schedule",
+      "Sheet List",
+      "Note Block",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Detail Component"
+    ],
+    "a": 0,
+    "visual": "schedule",
+    "image": "assets/images/q073.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which schedule feature combines identical rows and totals quantities?",
+    "choices": [
+      "Sorting/Grouping with Itemize every instance off",
+      "Filtering only",
+      "Conditional Formatting",
+      "Calculated Value",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option",
+      "Workset"
+    ],
+    "a": 0,
+    "visual": "schedule",
+    "image": "assets/images/q074.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which field can calculate cost from area multiplied by unit rate?",
+    "choices": [
+      "Calculated Value",
+      "Combined Parameter",
+      "Image Field",
+      "Count only",
+      "Schedule Key",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "schedule",
+    "image": "assets/images/q075.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which sheet element defines title, project data, and revision blocks?",
+    "choices": [
+      "Title Block",
+      "Viewport",
+      "View Title",
+      "Guide Grid",
+      "Schedule Key",
+      "View Filter",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Reference Plane",
+      "Scope Box"
+    ],
+    "a": 0,
+    "visual": "sheet",
+    "image": "assets/images/q076.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which tool aligns viewports consistently across several sheets?",
+    "choices": [
+      "Guide Grid",
+      "Scope Box",
+      "View Template",
+      "Reference Plane",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate",
+      "Design Option"
+    ],
+    "a": 0,
+    "visual": "sheet",
+    "image": "assets/images/q077.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which revision setting assigns clouds and tags to a formal issue?",
+    "choices": [
+      "Revisions on Sheet",
+      "Phasing",
+      "Design Options",
+      "Worksets",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Transfer Project Standards",
+      "Temporary Hide/Isolate"
+    ],
+    "a": 0,
+    "visual": "revision",
+    "image": "assets/images/q078.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which export format is commonly used for Navisworks coordination?",
+    "choices": [
+      "NWC",
+      "DWG",
+      "DWFx",
+      "SAT",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Transfer Project Standards"
+    ],
+    "a": 0,
+    "visual": "export",
+    "image": "assets/images/q079.svg"
+  },
+  {
+    "category": "Schedules, Sheets and QC",
+    "q": "Which command checks and repairs database corruption while opening a file?",
+    "choices": [
+      "Audit",
+      "Purge Unused",
+      "Compact",
+      "Synchronize",
+      "Schedule Key",
+      "View Filter",
+      "Assembly",
+      "Parts",
+      "Model Group",
+      "Detail Component"
+    ],
+    "a": 0,
+    "visual": "model",
+    "image": "assets/images/q080.svg"
+  }
+]

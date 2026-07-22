@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f6f7f8"/>
+<rect width="900" height="58" fill="#20242a"/>
+<text x="28" y="37" text-anchor="start" font-family="Arial" font-size="22" font-weight="900" fill="#fff">QUESTION 061 · ROOMS, AREAS AND PHASING</text>
+<rect x="105" y="100" width="690" height="300" rx="0" fill="#fff" stroke="#20242a" stroke-width="3"/><line x1="335" y1="100" x2="335" y2="400" stroke="#20242a" stroke-width="6"/><line x1="565" y1="100" x2="565" y2="400" stroke="#20242a" stroke-width="6"/><line x1="105" y1="250" x2="795" y2="250" stroke="#20242a" stroke-width="6"/><rect x="110" y="105" width="220" height="140" rx="0" fill="#ffd6a3" stroke="#20242a" stroke-width="0"/><rect x="340" y="105" width="220" height="140" rx="0" fill="#cfe8f7" stroke="#20242a" stroke-width="0"/><rect x="570" y="105" width="220" height="140" rx="0" fill="#d7ebc6" stroke="#20242a" stroke-width="0"/><rect x="110" y="255" width="220" height="140" rx="0" fill="#ead2f2" stroke="#20242a" stroke-width="0"/><rect x="340" y="255" width="220" height="140" rx="0" fill="#f8d2d2" stroke="#20242a" stroke-width="0"/><rect x="570" y="255" width="220" height="140" rx="0" fill="#d8e5ff" stroke="#20242a" stroke-width="0"/><rect x="1" y="410" width="898" height="48" fill="#ffffff"/><text x="450" y="441" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">APPLIES · COLORS · BASED</text>
+<rect x="0" y="458" width="900" height="62" fill="#fff"/>
+<text x="450" y="485" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="#20242a">Which tool applies colors based on room department or occupancy?</text>
+</svg>

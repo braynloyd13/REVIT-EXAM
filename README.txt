@@ -1,6 +1,6 @@
 TMAX ADVANCED REVIT ARCHITECTURE & MASS MODELING EXAM — 80 ITEMS
 
-EXAM DISTRIBUTION
+EXAM DISTRIBUTION tmax
 - 40 Advanced Mass Modeling questions
 - 40 Advanced Revit Architecture, Documentation, Schedules, and BIM QC questions
 - Total: 80 questions
